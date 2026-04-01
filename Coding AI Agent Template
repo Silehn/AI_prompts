@@ -1,0 +1,34 @@
+Purpose
+[DESCRIBE AGENT GOAL]
+Features
+[FEATURE 1]
+[FEATURE 2]
+[FEATURE 3]
+[ADD MORE AS NEEDED]
+Tech Stack
+Frontend: [TECH]
+Backend: [TECH]
+Database: [TECH]
+Other: [TOOLS/LIBS]
+Constraints
+[CONSTRAINT 1]
+[CONSTRAINT 2]
+[CONSTRAINT 3]
+Input / Output
+
+Input
+
+[INPUT FORMAT / DATA]
+
+Output
+
+[OUTPUT FORMAT / DATA]
+Behavior Rules
+[RULE 1]
+[RULE 2]
+[RULE 3]
+[ERROR HANDLING / EDGE CASES]
+Notes (Optional)
+[ADDITIONAL DETAILS]
+[ASSUMPTIONS]
+[KNOWN LIMITATIONS]
